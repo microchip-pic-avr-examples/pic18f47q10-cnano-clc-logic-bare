@@ -28,6 +28,7 @@
 /* PIC18F47Q10 Configuration Bit Settings */
 #pragma config MCLRE = EXTMCLR    /* Master Clear Enable bit->MCLR pin (RE3) is MCLR */
 #pragma config WDTE = OFF       /* WDT operating mode->WDT Disabled */
+#pragma config LVP = ON       /* Low voltage programming enabled */
 
 #include <xc.h>
 
