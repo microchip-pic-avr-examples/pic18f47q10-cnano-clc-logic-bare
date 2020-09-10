@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-clc-logic-bare",
         "version": "1.0.4",
-        "displayName": "PIC18F47Q10: Getting started with the CLC on PIC18 -> Using Basic Logic Gates",
+        "displayName": "Getting started with the CLC on PIC18 -> Using Basic Logic Gates",
         "projectName": "pic18f47q10-cnano-clc-logic-bare",
         "shortDescription": "In this demo, the internal timers and PWMs are used to generate internal signals that are then connected to CLCs to implement basic logic gates. Three use cases are implemented : AND, OR and XOR.",
         "ide": {
