@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-clc-logic-bare",
-        "version": "1.0.5",
+        "version": "1.0.6",
         "displayName": "Implementing Basic Logic Gates using CLC",
         "projectName": "pic18f47q10-cnano-clc-logic-bare",
         "shortDescription": "In this demo, the internal timers and PWMs are used to generate internal signals that are then connected to CLCs to implement basic logic gates. Three use cases are implemented : AND, OR and XOR.",
@@ -38,20 +38,17 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "Peripherals",
             [
-               "Peripherals", "CLC"
+               "Peripherals",
+               "CLC"
             ]          			
         ],
         "peripherals": [
             "CLC"
         ],
         "keywords": [
-            "Logic Function",
+            "Configurable Logic Cell",
             "Logic Gate",
-            "AND",
-            "OR",
-            "XOR",
             "Bare Metal"			
         ],
 		"additionalData": {
